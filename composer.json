@@ -1,12 +1,12 @@
 {
-    "name": "kunalvarma05/dropbox-php-sdk",
+    "name": "mmedelin/dropbox-php-sdk",
     "description": "Dropbox PHP API V2 SDK (Unofficial)",
     "keywords" : ["dropbox", "sdk", "api", "client", "php", "unofficial"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Kunal Varma",
-            "email": "kunalvarma05@gmail.com"
+            "name": "Mauro Medelin",
+            "email": "mmedelin@gmail.com"
         }
     ],
     "require": {
